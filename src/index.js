@@ -1,7 +1,7 @@
-import { createApp } from 'vue';
-import App from "./src/App";
+import { createApp } from "vue";
+import App from "./App.vue";
 
-createApp(App).mount('#app')
+createApp(App).mount("#app");
 
 // document.getElementById("lorem").onsubmit = async (event) => {
 //   event.preventDefault()
